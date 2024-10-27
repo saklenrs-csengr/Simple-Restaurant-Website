@@ -1,4 +1,4 @@
-Simple Restaurant Website:
+#Simple Restaurant Website:
 Welcome to Simple Restaurant Website, a responsive site that showcases a variety of delicious dishes and special offers.
 
 Features:
